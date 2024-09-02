@@ -1,5 +1,7 @@
 import React from "react"
-function Demo() {
+
+function First() {
     return <h1>Hello this is my First ReactProject : )</h1>
+    
 }
-export default Demo;
+export default First;
